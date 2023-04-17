@@ -1,4 +1,4 @@
-# Survey of Concerns
+# Survey
 
 This script generates a survey with 10 questions on different topics and generates random responses for a specified number of participants. Afterwards, the results are analyzed and a pie chart is displayed to visualize the results.
 
