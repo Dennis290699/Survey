@@ -59,10 +59,11 @@ plt.pie(values, labels=labels, autopct='%1.1f%%')
 plt.title("Survey Results")
 
 # Save the pie chart to a specific directory
-plt.savefig("D:/curso-VisualCode/Python/Encuesta/survey_results.png")
+# Choise your directory before last /
+#plt.savefig("/survey_results.png") 
 
 # Show the pie chart
-# plt.show()
+plt.show()
 
 # Analyze the results using comparatives
 print("Compared to the other concerns in the survey, people are:")
